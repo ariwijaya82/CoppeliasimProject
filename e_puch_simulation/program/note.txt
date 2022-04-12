@@ -1,0 +1,8 @@
+note:   karena terdapat masalah saat menggunakan library python 'keyboard' pada OS linux,
+        maka saya menggunakan library 'pygame' sebagai API untuk mengakses keyboard
+
+installation: pip3 install pygame
+
+usage:  saat menjalankan program, maka akan muncul GUI berwarna hitam
+        agar dapat mengontrol robot, pertama-tama klik tampilan GUI yang muncul,
+        baru kemudian tekan arah pada keyboard untuk mengontrol robot
